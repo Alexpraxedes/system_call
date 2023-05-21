@@ -1,5 +1,5 @@
 {
-  "name": "@praxedes/tokens",
+  "name": "@praxedes/react",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -16,6 +16,7 @@
   "devDependencies": {
     "@@praxedes/eslint-config": "*",
     "@praxedes/ts-config": "*",
+    "@praxedes/tokens": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }

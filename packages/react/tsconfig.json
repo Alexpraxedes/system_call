@@ -1,0 +1,4 @@
+{
+    "extends": "@praxedes/ts-config/react.json",
+    "include": ["src/**/*"],
+  }

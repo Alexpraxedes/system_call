@@ -1,0 +1,24 @@
+{
+  "name": "system_call",
+  "version": "1.0.0",
+  "description": "Estudo aprofundado sobre Design System, monorepos, pacotes e build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexpraxedes/system_call.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexpraxedes/system_call/issues"
+  },
+  "homepage": "https://github.com/Alexpraxedes/system_call#readme",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
